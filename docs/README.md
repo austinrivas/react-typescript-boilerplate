@@ -1,6 +1,6 @@
 # Documentation
 
-### ⚠️ This contains only the `Typescript` related documentation specific to this repo. Please check the [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) documentation for more.
+### ⚠️ This contains only the `Typescript` related documentation specific to this repo. Please check the [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) documentation for more.
 
 ## Table of Contents
 
