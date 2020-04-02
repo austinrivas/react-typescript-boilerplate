@@ -8,7 +8,8 @@ import { fireEvent, render } from '@testing-library/react';
 import Button, { Props } from '../index';
 
 const handleRoute = () => {};
-const href = 'http://mxstbr.com';
+// use a hash for location to avoid jdDOM navigation error
+const href = '#';
 const children = <h1>Test</h1>;
 const renderComponent = (props: Props & { type?: any } = {}) => {
   const utils = render(
