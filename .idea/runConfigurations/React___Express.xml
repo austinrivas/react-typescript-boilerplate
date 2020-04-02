@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="React - Express" type="NodeJSConfigurationType" application-parameters="cross-env" path-to-js-file="server/index.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="NODE_ENV" value="development" />
+    </envs>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser start="true" with-js-debugger="true" url="http://localhost:8888" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>
