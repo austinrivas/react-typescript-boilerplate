@@ -33,10 +33,13 @@ function App() {
   return (
     <AppWrapper>
       <Helmet
-        titleTemplate="%s - React.js Boilerplate"
-        defaultTitle="React.js Boilerplate"
+        titleTemplate="%s - Sophia"
+        defaultTitle="Sophia Facilities Management Application"
       >
-        <meta name="description" content="A React.js Boilerplate application" />
+        <meta
+          name="description"
+          content="Sophia Facilities Management Application"
+        />
       </Helmet>
       <Header />
       <Switch>

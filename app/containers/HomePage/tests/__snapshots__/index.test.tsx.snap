@@ -10,12 +10,12 @@ exports[`<HomePage /> should render and match the snapshot 1`] = `
         class="sc-bdVaJa dAIgSr"
       >
         <span>
-          Start your next react project in seconds
+          A basic outline for the Sophia Frontend
         </span>
       </h2>
       <p>
         <span>
-          A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+          Offline first, translatable, scalable, testable.
         </span>
       </p>
     </section>
@@ -48,7 +48,7 @@ exports[`<HomePage /> should render and match the snapshot 1`] = `
           <input
             class="sc-fjdhpX bmAVzu"
             id="username"
-            placeholder="mxstbr"
+            placeholder="austinrivas"
             type="text"
             value=""
           />

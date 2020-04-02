@@ -79,11 +79,8 @@ export default function HomePage() {
   return (
     <article>
       <Helmet>
-        <title>Home Page</title>
-        <meta
-          name="description"
-          content="A React.js Boilerplate application homepage"
-        />
+        <title>Sophia App</title>
+        <meta name="description" content="Home" />
       </Helmet>
       <div>
         <CenteredSection>
@@ -107,7 +104,7 @@ export default function HomePage() {
               <Input
                 id="username"
                 type="text"
-                placeholder="mxstbr"
+                placeholder="austinrivas"
                 value={username}
                 onChange={onChangeUsername}
               />

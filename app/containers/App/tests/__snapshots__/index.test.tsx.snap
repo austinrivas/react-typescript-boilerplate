@@ -3,13 +3,13 @@
 exports[`<App /> should render and match the snapshot 1`] = `
 <styled.div>
   <Helmet
-    defaultTitle="React.js Boilerplate"
+    defaultTitle="Sophia Facilities Management Application"
     defer={true}
     encodeSpecialCharacters={true}
-    titleTemplate="%s - React.js Boilerplate"
+    titleTemplate="%s - Sophia"
   >
     <meta
-      content="A React.js Boilerplate application"
+      content="Sophia Facilities Management Application"
       name="description"
     />
   </Helmet>
