@@ -7,5 +7,10 @@ stats.json
 # Cruft
 .DS_Store
 npm-debug.log
-.idea
 .awcache
+
+# Webstorm
+*.iml
+workspace.xml
+vcs.xml
+tasks.xml
